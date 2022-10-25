@@ -6,6 +6,8 @@ This script is made to be used with the [AUTOMATIC1111 webui](https://github.com
 1. Drop the `realtime_translate.py` into `stable-diffusion-webui/scripts` folder.
 2. Drop the `realtime_translate.js` into `stable-diffusion-webui/javascript` folder.
 3. Restart the sd-webui, the translating panel will show at the bottom.
+
+
 ![image](https://user-images.githubusercontent.com/6138806/197687618-ce757498-9d5e-418d-bd97-4a0a93e8a5ff.png)
 
 If you're using a Google Colab, you can add this in a code block before the one that starts the webui :
@@ -29,10 +31,12 @@ If you're using a Google Colab, you can add this in a code block before the one 
 ## Example
 ### Translate
 (651KB GIFs)
+
 ![ezgif-1-fe2a5dd0f1](https://user-images.githubusercontent.com/6138806/196651954-4a3b56fd-d461-4ea8-97ec-16a2efc3279d.gif)
 
 ### Reversed Translate
 (823KB GIFs)
+
 ![ezgif-5-2ffddd21eb](https://user-images.githubusercontent.com/6138806/196863977-25e8347e-23bd-4ede-89ff-60b6f705a178.gif)
 
 ## Refrences
