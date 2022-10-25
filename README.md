@@ -37,3 +37,5 @@ If you're using a Google Colab, you can add this in a code block before the one 
 
 ## Refrences
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/pull/3134
+https://stackoverflow.com/questions/17654458/how-to-make-an-reset-button-for-google-translate
+https://github.com/Extraltodeus/advanced-loopback-for-sd-webui/blob/main/README.md
