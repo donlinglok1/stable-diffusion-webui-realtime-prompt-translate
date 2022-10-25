@@ -5,7 +5,7 @@ This script is made to be used with the [AUTOMATIC1111 webui](https://github.com
 ## Installation
 1. Drop the `realtime_translate.py` into `stable-diffusion-webui/scripts` folder.
 2. Drop the `realtime_translate.js` into `stable-diffusion-webui/javascript` folder.
-3. Restart the sd-webui, the translate panel will show on bottom.
+3. Restart the sd-webui, the translating panel will show at the bottom.
 ![image](https://user-images.githubusercontent.com/6138806/197687618-ce757498-9d5e-418d-bd97-4a0a93e8a5ff.png)
 
 If you're using a Google Colab, you can add this in a code block before the one that starts the webui :
@@ -15,14 +15,14 @@ If you're using a Google Colab, you can add this in a code block before the one 
 ```
 ## Features
 ### Translate
-1. Click the `Translate` button and wait for loading
-2. After loading finish, input your prompt, the translated text will show to the top of the sd-webui.
-
+1. Click the `Translate` button and wait for the loading
+2. After loading, input your prompt, and the translated text will show at the top of the sd-webui.
+3. 
 ![image](https://user-images.githubusercontent.com/6138806/197688223-0f38a845-5b99-4293-bfd3-cacb5f6712ed.png)
 
 ### Reversed Translate
-1. Click the `Reversed Translate` button and wait for loading
-2. After loading finish, input your prompt on the top of the sd-webui, your prompt will reversed translat to the english prompt box.
+1. Click the `Reversed Translate` button and wait for the loading.
+2. After loading finish, input your prompt on the top of the sd-webui, your prompt will reverse translate to the English prompt box.
 
 ![image](https://user-images.githubusercontent.com/6138806/197688135-6a500f70-077c-4845-8c01-98d9da2a6d7a.png)
 
