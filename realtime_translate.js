@@ -37,6 +37,14 @@ new MutationObserver(function () {
             XPathResult.ANY_TYPE,
             null
         ).iterateNext().style.display = 'none';
+
+        document.evaluate(
+            '//*[@id="google_translate_element"]/div[2]',
+            document,
+            null,
+            XPathResult.ANY_TYPE,
+            null
+        ).iterateNext().style.display = 'none';
     }
 }).observe(document.documentElement, {
     attributes: true,
