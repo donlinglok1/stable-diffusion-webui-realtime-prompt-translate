@@ -1,0 +1,7 @@
+{"appDependencyProbingPaths":  [
+        {
+            "repo": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "projects": "*"
+        }
+    ]
+}
